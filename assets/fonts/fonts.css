@@ -1,0 +1,42 @@
+/* LatoRegular */
+@font-face {
+	font-family: 'Lato_Regular';
+		src: url('Lato-Regular.eot?#iefix') format('embedded-opentype'),
+			 url('Lato-Regular.woff') format('woff'),
+			 url('Lato-Regular.ttf')  format('truetype');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* LatoRegular */
+@font-face {
+	font-family: 'Lato_Light';
+		src: url('Lato-Light.eot?#iefix') format('embedded-opentype'),
+			 url('Lato-Light.woff') format('woff'),
+			 url('Lato-Light.ttf')  format('truetype');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* LatoSemiBold */
+@font-face {
+	font-family: 'Lato_Semibold';
+		src: url('Lato-Semibold.eot?#iefix') format('embedded-opentype'),
+			 url('Lato-Semibold.woff') format('woff'),
+			 url('Lato-Semibold.ttf')  format('truetype');
+	font-weight: normal;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* LatoBold */
+@font-face {
+	font-family: 'Lato_Bold';
+		src: url('Lato-Bold.eot?#iefix') format('embedded-opentype'),
+			 url('Lato-Bold.woff') format('woff'),
+			 url('Lato-Bold.ttf')  format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
